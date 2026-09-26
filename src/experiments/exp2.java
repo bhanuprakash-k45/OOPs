@@ -51,7 +51,7 @@ public class StackExample {
         Stack stack = new Stack();
 
         stack.push(5);
-        stack.push(10);
+        stack.push(20);
         stack.push(15);
 
         stack.display();
@@ -64,8 +64,8 @@ public class StackExample {
 
         stack.display();
 
-        stack.push(20);
-        stack.push(25);
+        stack.push(10);
+        stack.push(15);
 
         stack.display();
     }
